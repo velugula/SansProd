@@ -1,7 +1,0 @@
-D:\Eksila\BLL\BLL\bin\Debug\BLL.dll
-D:\Eksila\BLL\BLL\bin\Debug\BLL.pdb
-D:\Eksila\BLL\BLL\bin\Debug\DAL.dll
-D:\Eksila\BLL\BLL\bin\Debug\DAL.pdb
-D:\Eksila\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
-D:\Eksila\BLL\BLL\obj\Debug\BLL.dll
-D:\Eksila\BLL\BLL\obj\Debug\BLL.pdb
