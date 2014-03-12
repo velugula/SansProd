@@ -1,1 +1,1 @@
-create mode 100644 octocat.txt
+create mode 100644 octocat.txt I'm Merge with Master branch
